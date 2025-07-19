@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gallien Illusionist", "Gallien Illusionist\Gallien Illusionist.csproj", "{155F97CD-5EE7-4A2A-A452-12CB62E37CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155F97CD-5EE7-4A2A-A452-12CB62E37CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155F97CD-5EE7-4A2A-A452-12CB62E37CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155F97CD-5EE7-4A2A-A452-12CB62E37CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155F97CD-5EE7-4A2A-A452-12CB62E37CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7363789-91D1-4D38-86C6-58B628272986}
+	EndGlobalSection
+EndGlobal
